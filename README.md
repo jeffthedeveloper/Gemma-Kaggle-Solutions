@@ -1,3 +1,16 @@
+<h1> Synapse Dados Marketing e Web 📊</h1>
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFTxQxGLDrwvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720004751361?e=1746662400&v=beta&t=_TcRhciVEPiwqGZiiCyIP2IZQrZVZEpvXllGXBd4wsI">
+
+
+<div align ="center">
+  <a href="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /></a> 
+</div>
+
+<h6 align = "center"><a href ="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"> Help me buying me a coffee :D it's very important to continue smoking my neuronal mass</a</h6>
+
+
+
 ## Gemma Kaggle Fixes
 
 Este repositório contém soluções e scripts para problemas comuns encontrados ao usar o modelo Gemma no Kaggle. Ele aborda erros de carregamento de modelo, pesos LoRA, caminhos de arquivos, tokenizer, formatação de prompt e muito mais.
